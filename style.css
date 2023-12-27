@@ -18,6 +18,9 @@ nav {
   align-items: center;
   background-color: rgba(192, 7, 243, 0.938);
   padding: 0px 50px;
+  position: sticky;
+  left: 0;
+  top: 0px;
 }
 .logo {
   width: 10%;
