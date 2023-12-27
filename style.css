@@ -62,8 +62,12 @@ nav {
 }
 .photo_section span {
   font-size: 30px;
-  padding-bottom: 15px;
-  border-bottom: 1px solid rgba(18, 17, 17, 0.437);
+}
+#hr{
+  width: 30%;
+  margin: auto;
+ margin-top: 10px;
+  
 }
 .images {
   padding: 50px 0px;
@@ -233,10 +237,11 @@ p {
     cursor: pointer;
   }
   .photo_section span {
-    font-size: 13px;
+    font-size: 10px;
     padding-bottom: 15px;
-    border-bottom: 1px solid rgba(18, 17, 17, 0.437);
+    /* border-bottom: 1px solid rgba(18, 17, 17, 0.437); */
   }
+
   .images {
     padding: 50px 0px;
     display: grid;
@@ -283,7 +288,7 @@ p {
   .photo_section span {
     font-size: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid rgba(18, 17, 17, 0.437);
+    /* border-bottom: 1px solid rgba(18, 17, 17, 0.437); */
   }
   .images {
     padding: 50px 0px;
